@@ -40,7 +40,6 @@ public class DuplicationOfBrackets {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Enter the input string");
         String str = sc.next();
 
